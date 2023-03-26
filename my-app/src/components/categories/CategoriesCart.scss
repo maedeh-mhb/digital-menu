@@ -1,0 +1,36 @@
+
+@import "../../assets/mixins";
+@import "../../assets/variables";
+
+.cart-container{
+    width: 50%;
+    min-height: 150px;
+    cursor: pointer;
+   
+    section{
+        overflow: hidden;
+        &:hover{
+            @include dark-box-shadow
+        };
+        
+    }
+    span {
+        color: $text-color;
+        font-weight: bold;
+        &:hover{
+            @include dark-box-shadow
+        };
+        
+    }
+    @include sm {
+        width: 33.333333%;
+       
+    };
+    @include md {
+        width: 25%
+    };
+  
+
+};
+
+

@@ -1,0 +1,41 @@
+@import "../../assets/mixins";
+@import "../../assets/variables";
+
+.sub-cart {
+    margin-bottom: 75px;
+    width: 50%;
+    min-height: 150px;
+    
+    @include sm {
+        width: 33.333333%;
+        margin-bottom: 75px;
+    };
+    @include md {
+        width: 25%;
+        margin-bottom: 75px;
+    };
+    section {
+        overflow: inherit;
+        @include vintage-box-shadow;
+        min-height: 100%;
+       
+    }
+  img {
+     width: 100%;
+     height: 100%;
+    border-radius: 50%;
+    @include light-box-shadow
+  };
+
+};
+.item{
+    margin-bottom: 2rem;
+    font-size: $font-50;
+};
+
+.img-container {
+    right: calc(50% - 75px);
+    bottom: calc(100% - 75px);
+    
+};
+

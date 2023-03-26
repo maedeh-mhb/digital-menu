@@ -1,0 +1,19 @@
+
+
+  @font-face {
+    font-family: "IRANYekan";
+    font-style:'normal';
+    src: 
+     url('./fonts/IRANYekan/IRANYekan.woff') format("woff"),
+     url('./fonts/IRANYekan/IRANYekan.woff2') format('woff2'),
+     url('./fonts/IRANYekan/IRANYekan.ttf') format('ttf')
+  };
+  @font-face {
+    font-family: "Baran";
+    font-style:'normal';
+    src: 
+     url('./fonts/baran/BBaran.woff') format("woff"),
+     url('./fonts/baran/BBaran.ttf') format('ttf')
+  }
+  
+  

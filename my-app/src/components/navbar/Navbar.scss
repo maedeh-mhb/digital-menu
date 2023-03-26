@@ -1,0 +1,86 @@
+@import '../../assets/variables';
+@import '../../assets/mixins';
+.nav-container{
+    color: $text-color;
+    svg {
+        width: 2rem;
+        height: 2rem;
+    };
+    
+};
+
+.nav-cart {
+    margin-left: 1rem;
+    color: $text-color;
+    cursor: pointer;
+   
+    border: none;
+    &:hover{
+        background-color: #797d62;
+        color: $secondary-color;
+        box-shadow: none;
+    };
+   
+    @include light-box-shadow
+};
+
+.nav {
+     top:5rem;
+    z-index: 50;
+    background-color: $main-color;
+    &::-webkit-scrollbar {
+      display: none
+      };
+      ::-webkit-scrollbar-corner {
+        display: none
+      }
+};
+.active {
+    button{
+        background-color: $dark-green;
+    }
+    
+};
+
+.nav-icon {
+        border-radius: 50%;
+        padding: 0.7rem;
+        width: 3rem ;
+        height: 3rem ;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 1rem ;
+        background-color: $main-color ;
+        cursor: pointer;
+        z-index: 40;
+        svg{
+            color: $text-color;
+        }
+ };
+
+ .input-container{
+    border-radius: 20px;
+    z-index: 10;
+    padding-right: 2rem;
+    width: 0;
+    padding-left: 1rem;
+    right: 0;
+    opacity: 0;
+    transition: all 0.9s;
+    input {
+        width:90%;
+        height: 100%;
+        border: none;
+        background-color: transparent;
+        &:focus {
+            outline: none;
+        }
+    }
+ };
+
+ .animate{
+    opacity: 1;
+    width: 20rem;
+ };
+

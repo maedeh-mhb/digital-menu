@@ -1,0 +1,99 @@
+[
+        {
+        "category" : 
+            {"name":"فست فود","imgUrl" : "https://i.postimg.cc/Qt2Y1xn7/fastfood.jpg"},
+            
+         "sub" : [{
+                    "برگر(Burger)"  : 
+                        [
+                            {"id": 1, "name": "چیز برگر", "price": "138,000 T", "ingredients" : "160 گرم برگر گوشت خالص، کاهو، سس مخصوص حاوی خیارشور و پیاز ، نان گرد","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                            {"id": 2, "name": "باربیکیو مانستر","price": "150,000T", "ingredients" : "160 گرم برگر گوشت خالص ، بیکن سرخ شده، پنیر مخصوص چیز برگر، کاهو، سس مانستر، نان گرد","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                            {"id": 3, "name": "کلنل کریسپی","price": "110,000T", "ingredients" : "130 گرم سینه مرغ اسپایسی کریسپی شده، بیکن، پنیر گودا، کاهو، سس مخصوص، نان گرد","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                            {"id": 4, "name": "سینه مرغ کبابی اسپایسی","price": "120,000T", "ingredients" : "130 گرم سینه مرغ کبابی، پنیر گودا، کاهو، سس مخصوص، نان گرد.","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"}
+                        ],
+                    " پیتزا (Pizza)" :
+                        [
+                            {"id": 1, "name": "پیتزا نوستالژی 24 سانتی", "price": "138,000 T", "ingredients" : "خمیر پیتزا ایتالیایی، ژامبون ژیگو، ژامبون دودی، سوسیس، قارچ، فلفل دلمه ای رنگی، سس مخصوص، پنیر","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                            {"id": 2, "name": "پیتزا گریل استیک 24 سانتی","price": "50$", "ingredients" : "خمیر پیتزا ایتالیایی، ژامبون ژیگو، ژامبون دودی، سوسیس، قارچ، فلفل دلمه ای رنگی، سس مخصوص، پنیر","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                            {"id": 3, "name": "پیتزا استیک و سیر 30 سانتی","price": "150,000T", "ingredients" :"خمیر پیتزا ایتالیایی، ژامبون ژیگو، ژامبون دودی، سوسیس، قارچ، فلفل دلمه ای رنگی، سس مخصوص، پنیر","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                            {"id": 4, "name": "پیتزا استیک و سیر 30 سانتی","price": "110,000T", "ingredients" : "خمیر پیتزا ایتالیایی، ژامبون ژیگو، ژامبون دودی، سوسیس، قارچ، فلفل دلمه ای رنگی، سس مخصوص، پنیر","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                            {"id": 5, "name": "سینه مرغ کبابی اسپایسی","price": "70$", "ingredients" : "خمیر پیتزا ایتالیایی، ژامبون ژیگو، ژامبون دودی، سوسیس، قارچ، فلفل دلمه ای رنگی، سس مخصوص، پنیر","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"}
+                        ],
+                    "پاستا(Pasta) " :
+                        [
+                            {"id": 6, "name": "پاستا پنه بلونز", "price": "138,000 T", "ingredients" : "260 گرم پاستا پنه، پنیر پارمزان، سس پستو، 120 گرم مرغ","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                            {"id": 7, "name": "پاستا پنه پستو","price": "110,000T", "ingredients" : "260 گرم پاستا پنه، پنیر پارمزان، سس پستو، 120 گرم مرغ","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                            {"id": 8, "name": "پاستا پنه آلفردو","price": "150,000T", "ingredients" :"260 گرم پاستا پنه، پنیر پارمزان، سس پستو، 120 گرم مرغ","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"}
+                        
+                        ]
+               
+            }
+            ]
+        },
+        {
+        "category" :  
+                {"name":"سالاد","imgUrl" : "https://i.postimg.cc/ncsNXgRB/salad.jpg"},
+            
+         "sub" : [{
+                    "سالاد(Salad)  " :
+                    [
+                        {"id": 9, "name": "سالاد کینوا", "price": "138,000 T", "ingredients" : "کاهو، کینوا ، بی بی اسفناج ، خیار، گوجه گیلاسی، 100 گرم سینه مرغ، پنیر موزارلا تازه، پیاز، پیازچه، نان سرخ شده","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                        {"id": 10, "name": "سالاد کرنبری با مرغ", "price": "138,000 T", "ingredients" : "کاهو، کرنبری، پنیر پارمزان، ریحان، خیار، نان سرخ شده، 100 گرم سینه مرغ","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                        {"id": 11, "name": "سالاد سزار با چیکن استریپس", "price": "138,000 T", "ingredients" : "کاهو،2عدد چیکن استریپس،گوجه گیلاسی،پنیرپارمزان،نان سرخ شده","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"}
+                    ]
+                }]
+            
+        },
+        {
+            "category": 
+                {"name":"نوشیدنی گرم","imgUrl" : "https://i.postimg.cc/Wzf3XCg0/coffe.jpg"},
+            "sub" : [{
+                " انواع قهوه(Coffee)" : [
+                    {"id": 12, "name": "اسپرسو", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                    {"id": 13, "name": "اسپرسو دبل", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                    {"id": 14, "name": "ماکیاتو", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                    {"id": 15, "name":"کورتادو", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"}
+                    ],
+                 "  انواع چای(Tea)" :
+                 [
+                    {"id": 16, "name": "چای سیاه", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                    {"id": 17, "name": "چای ماچا", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                    {"id": 18, "name": "چای اولانگ", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                    {"id": 19, "name":"چای ماسالا", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"}
+                                
+                ],
+                " انواع دمنوش(Herbal Tea) " :
+                [
+                   {"id": 20, "name": "دمنوش چای سبز ", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                   {"id": 21, "name": "دمنوش زنجبیل و لیمو", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                   {"id": 22, "name": "دمنوش بهار نارنج", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                   {"id": 23, "name":"دمنوش به لیمو و بادرنجبویه ", "price": "138,000 T", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"}
+               
+                ]   
+            }]
+            
+        },
+        {
+            "category": 
+                {"name":"نوشیدنی سرد","imgUrl" : "https://i.postimg.cc/SsqY0Qc7/cold.jpg"},
+            "sub" : [{
+                " نوشیدنی‌های بر پایه قهوه(Coffee Based Drinks) " : [
+                    {"id": 12, "name": "اسپرسو", "price": "25$", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                    {"id": 13, "name": "اسپرسو دبل", "price": "25$", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                    {"id": 14, "name": "ماکیاتو", "price": "25$", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                    {"id": 15, "name":"کورتادو", "price": "25$", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"}
+                    ],
+                    "نوشیدنی‌های میوه‌ای(Fruity Drinks) " :
+                    [
+                       {"id": 28, "name": "اسموتی", "price": "25$", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                       {"id": 29, "name": "میلک شیک", "price": "25$", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                       {"id": 30, "name": "موهیتو", "price": "25$", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"},
+                       {"id": 31, "name":"پانچ", "price": "25$", "ingredients" : "","url" : "https://i.postimg.cc/QMQWMq9c/cheese.jpg"}
+                                   
+                   ]
+            }]
+            
+        }
+
+          
+                  ]

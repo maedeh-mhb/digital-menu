@@ -1,0 +1,24 @@
+@import "../../assets/mixins";
+@import "../../assets/variables";
+
+.footer-icon {
+    margin-left: 1.5rem;
+    width: 3rem ;
+    height: 3rem ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $secondary-color;
+    @include light-box-shadow;
+    svg{
+        color: $text-color;
+    }
+};
+
+.invisible {
+    display: none;
+};
+.visible {
+    display: flex;
+    justify-content: flex-end
+};

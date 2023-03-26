@@ -1,0 +1,37 @@
+@import '../src/fonts.css';
+
+* {
+  font-size: 62.5%;
+  font-family:"IRANYekan", serif;
+}
+
+*, *::after, *::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-margin-top: 100px;
+}
+:root {
+    
+     direction: rtl
+};
+
+body {
+  
+  margin: 0;
+  font-family:"IRANYekan", serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+};
+
+@font-face {
+  font-family: "IRANYekan";
+  font-style:'normal';
+  src: 
+   url('./fonts/IRANYekan/IRANYekan.woff') format("woff"),
+   url('./fonts/IRANYekan/IRANYekan.woff2') format('woff2'),
+   url('./fonts/IRANYekan/IRANYekan.ttf') format('ttf')
+};
